@@ -1,0 +1,14 @@
+C:\Users\NON\Desktop\Novella\bin\Debug\net8.0\Novella.exe
+C:\Users\NON\Desktop\Novella\bin\Debug\net8.0\Novella.deps.json
+C:\Users\NON\Desktop\Novella\bin\Debug\net8.0\Novella.runtimeconfig.json
+C:\Users\NON\Desktop\Novella\bin\Debug\net8.0\Novella.dll
+C:\Users\NON\Desktop\Novella\bin\Debug\net8.0\Novella.pdb
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\Novella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\Novella.AssemblyInfoInputs.cache
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\Novella.AssemblyInfo.cs
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\Novella.csproj.CoreCompileInputs.cache
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\Novella.dll
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\refint\Novella.dll
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\Novella.pdb
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\Novella.genruntimeconfig.cache
+C:\Users\NON\Desktop\Novella\obj\Debug\net8.0\ref\Novella.dll
